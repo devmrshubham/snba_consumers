@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/snba_consumers/static/css/main.af8cdb45.css",
+    "main.js": "/snba_consumers/static/js/main.c2047e0f.js",
+    "static/media/vision.png": "/snba_consumers/static/media/vision.9ffeda8ec38ba639f842.png",
+    "static/media/contact.png": "/snba_consumers/static/media/contact.164204815b377e44a1d7.png",
+    "static/media/about.png": "/snba_consumers/static/media/about.7c7b5a28af3a395923de.png",
+    "static/media/salon.png": "/snba_consumers/static/media/salon.12fe0c92b0c70cd2fa11.png",
+    "index.html": "/snba_consumers/index.html",
+    "main.af8cdb45.css.map": "/snba_consumers/static/css/main.af8cdb45.css.map",
+    "main.c2047e0f.js.map": "/snba_consumers/static/js/main.c2047e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8cdb45.css",
+    "static/js/main.c2047e0f.js"
+  ]
+}
